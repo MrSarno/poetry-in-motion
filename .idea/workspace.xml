@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7325f6d0-bb60-4d37-86ee-eb3ba28ee0e0" name="Changes" comment="" />
+    <list default="true" id="7325f6d0-bb60-4d37-86ee-eb3ba28ee0e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/content/home.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock-old.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/johnsweeney/WebstormProjects/poetry-in-motion/layout",
+    "last_opened_file_path": "/Users/johnsweeney/WebstormProjects/poetry-in-motion/pages",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,7 +55,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,6 +72,7 @@
       <updated>1658335099867</updated>
       <workItem from="1658335103976" duration="15000" />
       <workItem from="1658335128643" duration="473000" />
+      <workItem from="1660596364415" duration="1937000" />
     </task>
     <task id="LOCAL-00001" summary="feat: begin work on basic error handling">
       <created>1658962511312</created>
@@ -71,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658962511312</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="style: title case for headers on error page">
+      <created>1660596480413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660596480413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: begin work on basic error handling" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: begin work on basic error handling" />
+    <MESSAGE value="style: title case for headers on error page" />
+    <option name="LAST_COMMIT_MESSAGE" value="style: title case for headers on error page" />
   </component>
 </project>
